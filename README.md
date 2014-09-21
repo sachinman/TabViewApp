@@ -20,3 +20,6 @@ GetNameCYuCouplet	名字	成员嵌名春联
 GetNameJobCouplet	名字、职业	职业春联
 
 
+![](images/b1.jpg) ![](images/b2.jpg)
+
+![](images/b3.jpg) ![](images/b4.jpg)
